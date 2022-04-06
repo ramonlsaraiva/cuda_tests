@@ -29,7 +29,7 @@ while True:
 tipo = input("Tipo de Dado: ").lower()
 
 
-objOpen = open("main.cu", "w")
+objOpen = open("arithmetic_intensity.cu", "w")
 
 codigo0 = """#define N 1024*1024*16
 
